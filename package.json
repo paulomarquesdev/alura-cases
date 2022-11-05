@@ -1,0 +1,23 @@
+{
+  "name": "alura-cases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulomarquesdev/alura-cases",
+  "author": "https://github.com/paulomarquesdev/",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
