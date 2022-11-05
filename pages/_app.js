@@ -14,7 +14,8 @@ function MyApp({ Component, pageProps }){
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
 
-                        gtag('config', 'G-TLCDVMVGRC');`
+                        gtag('config', 'G-TLCDVMVGRC');
+                    `
                 }}  
             />
             <Head>
